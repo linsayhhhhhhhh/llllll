@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: /*.axd$
+Sitemap: https://www.lapostemobile.fr/sitemap.xml
